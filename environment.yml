@@ -1,0 +1,14 @@
+name: tigb_alv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pip
+  - ipykernel
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - pip:
+      - ase==3.26.0
+      - pymatgen==2025.6.14
