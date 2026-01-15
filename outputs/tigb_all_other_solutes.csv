@@ -1,0 +1,1 @@
+job_name,top_level,relpath,path,structure_file,num_atoms,formula,volume,density,pmg_structure_json,ase_atoms_json,energy_eV,forces_eV_A,stress_kbar_3x3,energy_per_atom_eV,incar,incar_system,incar_encut,incar_ispin,incar_ismear,incar_sigma,incar_gga,potcar_nelectrons_map,potcar_total_nelectrons,parse_errors,solute
