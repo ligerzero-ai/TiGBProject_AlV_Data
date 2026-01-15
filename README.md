@@ -2,7 +2,7 @@
 
 This repository is **under construction**. It currently contains the **data and analysis code** needed to reproduce the DFT-based segregation-profile analysis associated with:
 
-- **Acta Materialia** (2026): *“…”*  
+- **Acta Materialia** (2026): *Quantifying changes to solute segregation behaviour at interfaces in additively manufactured Ti-6Al-4V*  
   Reference link: `https://www.sciencedirect.com/science/article/pii/S1359645426000108`
 
 ## What’s in here
@@ -13,5 +13,5 @@ This repository is **under construction**. It currently contains the **data and 
 
 ## Status
 
-- Parsing/export utilities are functional, but the repository layout and documentation are still evolving.
+- Data is present but analysis tools are missing at the moment.
 
